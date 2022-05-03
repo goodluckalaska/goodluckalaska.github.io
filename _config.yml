@@ -3,8 +3,8 @@ title: Good Luck Alaska
 subtitle: 
 email: goodluckalaskaband@gmail.com
 description: Minneapolis americana/indie-rock
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: goodluckalaska.github.io
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://goodluckalaska.github.io"
 author:
 street_address: 
 city: 
