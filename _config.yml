@@ -1,0 +1,45 @@
+# site settings
+title: Good Luck Alaska
+subtitle: 
+email: goodluckalaskaband@gmail.com
+description: Minneapolis americana/indie-rock
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: goodluckalaska.github.io
+author:
+street_address: 
+city: 
+state: 
+zip_code:
+country: 
+phone: 
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 0
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: 
+  GitLab:
+  Google-Plus: 
+  Instagram: https://www.instagram.com/goodluckalaska/
+  LinkedIn: 
+  Twitter: 
+  Facebook:
+  Slack:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
+
