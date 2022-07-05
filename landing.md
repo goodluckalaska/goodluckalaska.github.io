@@ -1,8 +1,8 @@
 ---
 title: Video
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: 
+image: assets/images/banner2png.png
 nav-menu: true
 ---
 
@@ -23,21 +23,31 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		<br>
+		<br>
+		<br>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/8pFkHJRl0go" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Madison</h3>
+					<h3>Guilt</h3>
 				</header>
-				<p>Song description</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Video</a></li>
+				<p>Music and Lyrics by Juliet Kelson and Ryan Dugan</p>
+				<ul>
+				<li>Juliet Kelson - guitar, vocals</li>
+				<li>Ryan Dugan - guitar, vocals</li>
+				<li>Corbin Dodd - bass</li>
+				<li>Reid Kruger - drums</li>
 				</ul>
+				<p>Audio and video production by Reid Kruger at Waterbury Music • Sound • Picture</p>
+				<!-- <ul class="actions">
+					<li><a href="https://www.youtube.com/watch?v=8pFkHJRl0go" class="button">Video</a></li>
+				</ul> -->
 			</div>
 		</div>
 	</section>
-	<section>
+	<!-- <section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
@@ -69,7 +79,7 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
-</section>
+</section> -->
 
 <!-- Three -->
 <!-- <section id="three">
@@ -84,4 +94,4 @@ nav-menu: true
 	</div>
 </section> -->
 
-</div>
+<!-- </div> -->
