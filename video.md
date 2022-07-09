@@ -1,4 +1,12 @@
-I"�<!-- Main -->
+---
+title: Video
+layout: video
+description: 
+image: assets/images/banner2png.png
+nav-menu: true
+---
+
+<!-- Main -->
 <div id="main">
 
 <!-- One -->
@@ -15,10 +23,10 @@
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-		<br />
-		<br />
-		<br />
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/8pFkHJRl0go" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+		<br>
+		<br>
+		<br>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/8pFkHJRl0go" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -33,15 +41,15 @@
 				<li>Reid Kruger - drums</li>
 				</ul>
 				<p>Audio and video production by Reid Kruger at Waterbury Music • Sound • Picture</p>
-				<ul class="actions">
+				<!-- <ul class="actions">
 					<li><a href="https://www.youtube.com/watch?v=8pFkHJRl0go" class="button">Video</a></li>
-				</ul>
+				</ul> -->
 			</div>
 		</div>
 	</section>
-	<section>
+	<!-- <section>
 		<a href="generic.html" class="image">
-			<img src="/assets/images/pic09.jpg" alt="" data-position="top center" />
+			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -57,7 +65,7 @@
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="/assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -71,7 +79,7 @@
 			</div>
 		</div>
 	</section>
-</section>
+</section> -->
 
 <!-- Three -->
 <!-- <section id="three">
@@ -86,5 +94,4 @@
 	</div>
 </section> -->
 
-</div>
-:ET
+<!-- </div> -->
