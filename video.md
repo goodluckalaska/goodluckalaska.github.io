@@ -22,12 +22,13 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-		<br>
+	<div class="embed-youtube">
+		<!-- <a> -->
 		<br>
 		<br>
 			<iframe width="560" height="315" src="https://www.youtube.com/embed/8pFkHJRl0go" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-		</a>
+		<!-- </a> -->
+		</div>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
